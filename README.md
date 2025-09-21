@@ -1,7 +1,7 @@
 # 🛸 hi, i'm dmitry
 
 bias for clean systems, boring tech, and shipping things that work(?).  
-currently ~~looking for the miracle~~ looking for a job.
+currently ~~looking for the miracle~~ ~~looking for a job~~ looking for nothing.
 
 ---
 
